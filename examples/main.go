@@ -1,7 +1,3 @@
-//   @Author: Durant Thorvald
-//   @Date: 2021-09-06 04:47:11
-//   @LastEditors: Durant Thorvald
-//   @Description: We decide to consider every operation in concurrent manner
 //   @ProjectUrl: github.com/icpp22hdpsr/hdpsr
 
 package main
