@@ -41,7 +41,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/klauspost/reedsolomon"
+	"github.com/icpp22hdpsr/reedsolomon"
 )
 
 var dataShards = flag.Int("data", 4, "Number of shards to split the data into")

@@ -8,7 +8,7 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/klauspost/reedsolomon"
+	"github.com/icpp22hdpsr/reedsolomon"
 )
 
 func fillRandom(p []byte) {
